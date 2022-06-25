@@ -21,3 +21,10 @@ $color: #00cc99;
     background-color: $color;
   }
 }
+
+.link-list{
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+  gap: 8px;
+}
