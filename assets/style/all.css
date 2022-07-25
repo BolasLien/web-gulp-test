@@ -30,4 +30,7 @@
   list-style-type: none;
   gap: 8px; }
 
+.link-item.active {
+  background-color: orangered; }
+
 /*# sourceMappingURL=all.css.map */
