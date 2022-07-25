@@ -28,3 +28,7 @@ $color: #00cc99;
   list-style-type: none;
   gap: 8px;
 }
+
+.link-item.active{
+  background-color: orangered;
+}
